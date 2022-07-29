@@ -1,0 +1,10 @@
+a= input("")
+b= input("")
+a=int(a)
+b=int(b)
+sun=a+b
+print(sun)
+sub=a-b
+print(sub)
+mul=a*b
+print(mul)
